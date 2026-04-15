@@ -25,7 +25,7 @@ export default function Login() {
 								<Form.Control type="text" onChange={(e) => }/>
 							</Form.Group>
 							<Form.Group
-								className="mb-3"
+								className="mb-4"
 								
 							>
 								<Form.Label>Password</Form.Label>
